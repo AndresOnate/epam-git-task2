@@ -3,6 +3,11 @@ Vitae sed convallis cubilia non netus, montes felis natoque donec. (Modified in 
 Magnis placerat venenatis quis maecenas neque litora, montes nascetur accumsan odio. (Modified in Step 7)
 Eu ligula mollis erat ultricies, senectus habitasse. (Modified in Step 8)
 Nisi class magnis arcu molestie semper at laoreet.
+Curabitur id libero quisque, inceptos ornare. (Modified in Step 18)
+Fames eu faucibus proin donec tempus, torquent nibh velit.
+Metus dictum eget phasellus primis quam, imperdiet libero litora. (Modified in Step 18)
+Erat quis torquent viverra in, porttitor per.
+Nam fusce arcu duis curabitur, faucibus nulla turpis. 
 Curabitur id libero quisque, inceptos ornare.
 Fames eu faucibus proin donec tempus, torquent nibh velit. (Modified in Step 19)
 Metus dictum eget phasellus primis quam, imperdiet libero litora.
