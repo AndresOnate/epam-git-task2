@@ -1,7 +1,7 @@
 Lorem ipsum dolor sit, amet consectetur adipiscing, elit imperdiet. (Modified in Step 7)
-Vitae sed convallis cubilia non netus, montes felis natoque donec.
+Vitae sed convallis cubilia non netus, montes felis natoque donec. (Modified in Step 8)
 Magnis placerat venenatis quis maecenas neque litora, montes nascetur accumsan odio. (Modified in Step 7)
-Eu ligula mollis erat ultricies, senectus habitasse.
+Eu ligula mollis erat ultricies, senectus habitasse. (Modified in Step 8)
 Nisi class magnis arcu molestie semper at laoreet.
 Curabitur id libero quisque, inceptos ornare.
 Fames eu faucibus proin donec tempus, torquent nibh velit.
